@@ -1,0 +1,4 @@
+com\orange\qa\util\Orange_commonUtil.class
+com\orange\qa\pages\Orange_HomePage.class
+com\orange\qa\base\Orange_TestBase.class
+com\orange\qa\pages\Orange_loginPage.class
